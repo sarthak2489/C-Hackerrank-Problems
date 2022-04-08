@@ -1,1 +1,1 @@
-# c-hackerrank
+All hackerrank problems in first semester. 
