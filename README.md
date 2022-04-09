@@ -1,1 +1,2 @@
-All hackerrank problems in first semester. 
+Basic C language problems on Hackerrank.
+
